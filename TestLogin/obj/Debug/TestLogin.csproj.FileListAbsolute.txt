@@ -1,0 +1,12 @@
+c:\users\rawr\documents\visual studio 2017\Projects\TestLogin\TestLogin\bin\Debug\TestLogin.exe.config
+c:\users\rawr\documents\visual studio 2017\Projects\TestLogin\TestLogin\bin\Debug\TestLogin.exe
+c:\users\rawr\documents\visual studio 2017\Projects\TestLogin\TestLogin\bin\Debug\TestLogin.pdb
+c:\users\rawr\documents\visual studio 2017\Projects\TestLogin\TestLogin\obj\Debug\TestLogin.csprojResolveAssemblyReference.cache
+c:\users\rawr\documents\visual studio 2017\Projects\TestLogin\TestLogin\obj\Debug\TestLogin.exe
+c:\users\rawr\documents\visual studio 2017\Projects\TestLogin\TestLogin\obj\Debug\TestLogin.pdb
+C:\Users\wwstudent\Desktop\Login\CreateAccount-LoginProject-master\TestLogin\TestLogin\bin\Debug\TestLogin.exe.config
+C:\Users\wwstudent\Desktop\Login\CreateAccount-LoginProject-master\TestLogin\TestLogin\obj\Debug\TestLogin.exe
+C:\Users\wwstudent\Desktop\Login\CreateAccount-LoginProject-master\TestLogin\TestLogin\obj\Debug\TestLogin.pdb
+C:\Users\wwstudent\Desktop\Login\CreateAccount-LoginProject-master\TestLogin\TestLogin\bin\Debug\TestLogin.exe
+C:\Users\wwstudent\Desktop\Login\CreateAccount-LoginProject-master\TestLogin\TestLogin\bin\Debug\TestLogin.pdb
+C:\Users\wwstudent\Desktop\Login\CreateAccount-LoginProject-master\TestLogin\TestLogin\obj\Debug\TestLogin.csprojResolveAssemblyReference.cache
